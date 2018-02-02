@@ -5,7 +5,7 @@ This web application will get the most important WebSphere JMX metrics and publi
 ## How-To build
 1. Get theses files from your WebSphere instalation: `com.ibm.ws.admin.client_8.5.0.jar` & `JSON4J.jar`
 2. Copy those files to the `lib` directory.
-3. Run `mvn clean isntall`
+3. Run `mvn clean install`
 4. the `wasmonitor.war` will be on the `target` direcotry.
 
 ## How-to deploy
